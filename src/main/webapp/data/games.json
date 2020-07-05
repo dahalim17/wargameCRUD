@@ -1,0 +1,43 @@
+[{
+        "id": "1",
+        "games": "Watch Dog: Legion",
+        "genre": "Adventure, action",
+        "price": "Price has not been announced",
+        "date": "April 2021"
+    },
+    {
+        "id": "2",
+        "games": "Asseto Corsa: Competizione",
+        "genre": "Racing, simulator",
+        "price": "Rp. 599,000",
+        "date": "June 2020"
+    },
+    {
+        "id": "3",
+        "games": "The Last of Us Part II",
+        "genre": "Action, adventure, survival-horror",
+        "price": "Rp. 700,000",
+        "date": "June 2020"
+    },
+    {
+        "id": "4",
+        "games": "Cyberpunk 2077",
+        "genre": "Adventure, action, RPG",
+        "price": "Rp. 899,000",
+        "date": "September 2020"
+    },
+    {
+        "id": "5",
+        "games": "Ghost of Tsushima",
+        "genre": "Action, adventure, stealth",
+        "price": "Rp. 700,000",
+        "date": "July 2020"
+    },
+    {
+        "id": "6",
+        "games": "Marvel Avengers",
+        "genre": "Action, adventure",
+        "price": "Rp. 700,000",
+        "date": "June 2020"
+    }
+]
